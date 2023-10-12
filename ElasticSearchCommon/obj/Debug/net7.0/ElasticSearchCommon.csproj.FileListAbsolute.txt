@@ -1,0 +1,12 @@
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\bin\Debug\net7.0\ElasticSearchCommon.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\bin\Debug\net7.0\ElasticSearchCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\bin\Debug\net7.0\ElasticSearchCommon.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\ElasticSearchCommon.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\ElasticSearchCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\ElasticSearchCommon.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\ElasticSearchCommon.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\ElasticSearchCommon.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\ElasticSearchCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\refint\ElasticSearchCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\ElasticSearchCommon.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ElasticSearchCommonLibrary\ElasticSearchCommon\obj\Debug\net7.0\ref\ElasticSearchCommon.dll
