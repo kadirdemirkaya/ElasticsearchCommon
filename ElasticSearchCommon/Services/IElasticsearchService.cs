@@ -7,7 +7,7 @@ public interface IElasticsearchService<T> where T : class
 {
     public Task<bool> IsConnect(bool configure);
 
-    public Task<IElasticClient> GetConnection(ElasticConfiguration elasticConfiguration);
+    public Task<ElasticClient> GetConnection(ElasticConfiguration elasticConfiguration);
 
     public Task<List<T>> AutoComplete(string field, string query, bool transport = false);
 

@@ -15,7 +15,7 @@ public class ElasticsearchService<T> : IElasticsearchService<T> where T : class
         _elasticConfClient = GetElasticConnection();
     }
 
-    public async Task<IElasticClient> GetConnection(ElasticConfiguration elasticConfiguration)
+    public async Task<ElasticClient> GetConnection(ElasticConfiguration elasticConfiguration)
     {
         try
         {
@@ -24,8 +24,7 @@ public class ElasticsearchService<T> : IElasticsearchService<T> where T : class
                 .DefaultIndex(indexName)
                 .BasicAuthentication(elasticConfiguration.UserName, elasticConfiguration.Password)
                 .DisableDirectStreaming();
-            IElasticClient client = new ElasticClient(settings);
-            return client;
+            return new ElasticClient(settings);
         }
         catch (System.Exception ex)
         {
